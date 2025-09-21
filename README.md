@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# Supabase React Native with Expo and Social Auth Tutorial
+
+See: https://supabase.com/docs/guides/auth/quickstarts/with-expo-react-native-social-auth
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
